@@ -7,5 +7,4 @@ This portfolio is built using HTML, CSS and JavaScript.
 
 ## Contact
 
-If you want to contact me you can reach me at [Email](anningl@andrew.cmu.edu).
-
+If you want to contact me you can reach me at *anningl@andrew.cmu.edu*
